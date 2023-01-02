@@ -25,7 +25,7 @@ var questionArray = [
   ans: "object"
 },
   {
-  question: "what will be output console.log(2>3) (true or False)",
+  question: "what will be output console.log(2>3) (true or false)",
   ans: "false"
 },
   {
@@ -37,8 +37,8 @@ var questionArray = [
   ans: "21"
 }, 
   {
-  question: `who deveoloped JS? (Dennis Richie/ BillGates/Google/Brendan Eich))`,
-  ans: "Brendan Eich"
+  question: `who deveoloped JS? (Dennis Richie/ BillGates/google/Brendan eich))`,
+  ans: "brendan eich"
 } 
 ]
 function check(question, answer){
